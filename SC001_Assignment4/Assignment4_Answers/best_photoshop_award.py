@@ -1,6 +1,6 @@
 """
 File: best_photoshop_award.py
-Name:
+Name: Rebecca
 ----------------------------------
 This file creates a photoshopped image
 that is going to compete for the Best
